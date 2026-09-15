@@ -46,6 +46,7 @@
 ## 🚀 Projets phares
 
 - 🔹 **[GoBillTrac](https://github.com/alama24246/GoBillTrac)** — API backend de gestion de facturation (Java, Spring Boot, Spring Security JWT, PostgreSQL), réalisée en stage.
+- 🔹 **[Parking Management System](https://github.com/alama24246/parking-management-system)** — Système de gestion de parking en architecture microservices (Java, Spring Boot, H2), projet de groupe.
 
 <br/>
 
