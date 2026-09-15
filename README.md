@@ -45,8 +45,7 @@
 
 ## 🚀 Projets phares
 
-<!-- Ajoute ici tes projets au fur et à mesure -->
-- 🔹 *Bientôt disponible...*
+- 🔹 **[GoBillTrac](https://github.com/alama24246/GoBillTrac)** — API backend de gestion de facturation (Java, Spring Boot, Spring Security JWT, PostgreSQL), réalisée en stage.
 
 <br/>
 
